@@ -1,0 +1,68 @@
+From: raju@example.com
+To: ramya@example.com
+Subject: Meeting Reminder
+
+Hi ramya,
+
+I hope this message finds you well. Just a quick reminder about our meeting scheduled for tomorrow at 10 AM. We will be discussing the upcoming project deadlines and deliverables.
+
+Looking forward to your insights.
+
+Best,
+Alice
+
+--- End Email ---
+
+From: raju@example.com
+To: ramesh@example.com
+Subject: Project Update
+
+Hi ramesh,
+
+I wanted to provide you with a quick update on the project status. We have completed the first phase and are on track to start the second phase next week. Please let me know if you have any questions or concerns.
+
+Thanks,
+Charlie
+
+--- End Email ---
+
+From: eve@example.com
+To: frank@example.com
+Subject: Feedback Request
+
+Hello Frank,
+
+I would appreciate your feedback on the presentation I sent last week. Your thoughts would be invaluable as I finalize the materials for the client meeting.
+
+Thanks in advance for your help!
+
+Best,
+Eve
+
+--- End Email ---
+
+From: grace@example.com
+To: heidi@example.com
+Subject: Vacation Plans
+
+Hi Heidi,
+
+I hope you're doing well! I wanted to touch base about our vacation plans. Are we still on track to go next month? Let me know if there's anything specific you would like to plan or see while we're there.
+
+Best regards,
+Grace
+
+--- End Email ---
+
+From: naveen@example.com
+To: gireesh@example.com
+Subject: Follow-Up on Proposal
+
+Dear gireesh,
+
+I just wanted to follow up on the proposal I sent last week regarding the marketing strategy. Have you had a chance to review it? I’m eager to hear your thoughts.
+
+Best,
+Isaac
+
+--- End Email ---

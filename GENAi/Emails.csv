@@ -1,0 +1,22 @@
+to,from,subject,summary,summary_spanish
+ramya@example.com,raju@example.com,Meeting Reminder,"Here are the summaries of the emails:
+
+**Alice to Ramya:** A reminder for their meeting tomorrow at 10 AM to discuss project deadlines and deliverables.
+
+**Charlie to Ramesh:**  An update on the project status - the first phase is complete, and the second phase starts next week.
+
+**Eve to Frank:**  A request for feedback on a presentation before a client meeting.
+
+**Grace to Heidi:**  A check-in about their vacation plans and a request for any specific planning.
+
+**Isaac to Gireesh:**  A follow-up on a marketing strategy proposal sent last week.","Aquí están los resúmenes de los correos electrónicos:
+
+**Alice a Ramya:** Un recordatorio de su reunión de mañana a las 10 AM para discutir las fechas límite del proyecto y los entregables.
+
+**Charlie a Ramesh:** Una actualización sobre el estado del proyecto - la primera fase está completa, y la segunda fase comienza la próxima semana.
+
+**Eve a Frank:** Una solicitud de comentarios sobre una presentación antes de una reunión con un cliente.
+
+**Grace a Heidi:** Una revisión de sus planes de vacaciones y una solicitud de cualquier planificación específica.
+
+**Isaac a Gireesh:** Un seguimiento de una propuesta de estrategia de marketing enviada la semana pasada."
